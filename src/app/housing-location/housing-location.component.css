@@ -1,0 +1,18 @@
+.listing {
+  padding-bottom: 30px;
+}
+.listing-heading {
+  padding: 10px 20px 0 20px;
+  font: caption;
+}
+.listing-photo {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.listing-location {
+  padding: 10px 20px 20px 20px;
+}
+
+
