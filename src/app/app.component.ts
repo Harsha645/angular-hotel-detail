@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+import {RouterModule} from '@angular/router'
+import "primeicons/primeicons.css";
 @Component({
   selector: 'app-root',
   standalone: true,
